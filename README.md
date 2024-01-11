@@ -47,7 +47,7 @@ I participate at different levels in IT projects:
 
 <br>
 
-No publication for the moment
+- [Laravel testing](https://medium.com/@fofbaky/tests-laravel-with-todo-application-e1c90d8ea52b)
 
 <br>
 
