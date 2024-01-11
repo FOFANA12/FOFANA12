@@ -1,24 +1,28 @@
-
 <p>
 
 <a href="https://www.twitter.com/Fofbaky" target="_blank"><img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=25></a> <a href="https://www.linkedin.com/in/fofana-bakary" target="_blank"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25></a> <a href="https://medium.com/@fofbaky" target="_blank"><img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" height=25></a> <a href="https://dev.to/fofana12" target="_blank"><img src="https://img.shields.io/badge/DEV.TO-%230A0A0A.svg?&style=for-the-badge&logo=dev-dot-to&logoColor=white" height=25></a></p>
 
-
 Hello 👋
 
-I am **FOFANA**, graduated with a bachelor's degree in software engineering with a master's degree in electrical engineering and industrial computer science, I now have a full stack developer profile with senior.
+I am a passionate **full-stack developer** with a strong background in designing web and mobile applications.
 
-Collecting needs and delivering is a routine for me.
+I have worked on a variety of projects, ranging from simple web applications to complex and high-performance ERP modules. My goal is to create professional, secure, and high-performance applications with a great user experience, while ensuring the efficiency of underlying features.
 
+I participate at different levels in IT projects:
+
+- Requirement analysis and specification writing.
+- Design, development, and testing.
+- Deployment and ongoing monitoring.
 
 ## Programming languages
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![](https://img.shields.io/badge/SQL-Database?style=for-the-badge&logo=SQL-Database&logoColor=white)
 ![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 
 ## Framework and tools
 
@@ -48,20 +52,22 @@ No publication for the moment
 <br>
 
 ## Some private projects achievements
+
 <br>
 
-| Project name      | Project owner | Type         | Description            |
-| :---------------- | :------------ | :----------- | :-----------------------
-| SYGENO | SOFTECH (personal project) | `Private project `| SYGENO is a note management application adapted to the Malian high school. It was developed with Laravel.|
-| GSTOCK | SOFTECH (personal project) |`Private project `| GSTOCK is a simple stock management application suitable for small businesses. It was developed with Laravel.|
-| GRO | D-XPERTS |`Private project `| GRO is a buying and selling management application for small businesses. it was done with Laravel.|
-| Swiss-app | D-XPERTS |`Private project `| Swiss-app is an activity management application for an insurance company. it was done with Laravel.|
-| Safety-app | D-XPERTS, EIFFAGE Nouakchott |`Private project `| Safety-app is an activity management application for a French company in Nouakchott. Application web with its Android application with the possibility of manual synchronization. it was done with Laravel, Vuejs and Flutter.|
-| Safety-reports | D-XPERTS, EIFFAGE Nouakchott |`Private project `| Safety-reports is an HSE application consisting of three web and mobile applications with one main application. it was done with Laravel, Vuejs and Flutter.|
-| Fpm-app | FPM |`Private project `| fpm-app is an activity management application for a fishing company in Nouackhott. it was done with Laravel, Vuejs and Flutter.|
-| G-paix | La paix transport |`Private project `| G-paix is an application for the registration of orders to shippers for a Malian company in Nouakchott in the field of goods transport. it was done with Laravel, Vuejs and Flutter.|
+| Project name   | Project owner                | Type               | Description                                                                                                                                                                                                                    |
+| :------------- | :--------------------------- | :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| SYGENO         | SOFTECH (personal project)   | `Private project ` | SYGENO is a note management application adapted to the Malian high school. It was developed with Laravel.                                                                                                                      |
+| GSTOCK         | SOFTECH (personal project)   | `Private project ` | GSTOCK is a simple stock management application suitable for small businesses. It was developed with Laravel.                                                                                                                  |
+| GRO            | D-XPERTS                     | `Private project ` | GRO is a buying and selling management application for small businesses. it was done with Laravel.                                                                                                                             |
+| Swiss-app      | D-XPERTS                     | `Private project ` | Swiss-app is an activity management application for an insurance company. it was done with Laravel.                                                                                                                            |
+| Safety-app     | D-XPERTS, EIFFAGE Nouakchott | `Private project ` | Safety-app is an activity management application for a French company in Nouakchott. Application web with its Android application with the possibility of manual synchronization. it was done with Laravel, Vuejs and Flutter. |
+| Safety-reports | D-XPERTS, EIFFAGE Nouakchott | `Private project ` | Safety-reports is an HSE application consisting of three web and mobile applications with one main application. it was done with Laravel, Vuejs and Flutter.                                                                   |
+| Fpm-app        | FPM                          | `Private project ` | fpm-app is an activity management application for a fishing company in Nouackhott. it was done with Laravel, Vuejs and Flutter.                                                                                                |
+| G-paix         | La paix transport            | `Private project ` | G-paix is an application for the registration of orders to shippers for a Malian company in Nouakchott in the field of goods transport. it was done with Laravel, Vuejs and Flutter.                                           |
+
 <br>
 
 ## Open source projects
 
-No open source projects 
+No open source projects
