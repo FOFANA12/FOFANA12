@@ -71,6 +71,7 @@ No publication for the moment
 ## Public projects
 
 <br/>
-| Project name                | Project owner    | Url Description                              |
-| :-------------------------- | :--------------- | :------------------------------------------- | :-------------------------------------------------------------------------------------------- |
-| Tests Laravel for beginners | Personal project | https://github.com/FOFANA12/laravel-test.git | The objective of this project is to understand unit testing and feature testing with Laravel. |
+| Project name   | Project owner                | Url               | Description                                                                                                                                                                                                                    |
+| :------------- | :--------------------------- | :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Tests Laravel         | Personal project   | https://github.com/FOFANA12/laravel-test.git | The objective of this project is to understand unit testing and feature testing with Laravel. 
+<br/>
