@@ -82,9 +82,9 @@ No publication for the moment
 </thead>
 <tbody>
   <tr>
-    <td>Tests Laravel</td>
+    <td>Laravel testing</td>
     <td>Personal project</td>
-    <td>https://github.com/FOFANA12/laravel-test.git</td>
+    <td>https://github.com/FOFANA12/laravel-testing.git</td>
     <td>The objective of this project is to understand unit testing and feature testing with Laravel.</td>
   </tr>
 </tbody>
