@@ -47,8 +47,9 @@ I participate at different levels in IT projects:
 
 <br>
 
-- <a href="https://github.com/username/repository" target="_blank" rel="noopener">Laravel testing</a>
-  <br>
+- [Laravel testing](https://medium.com/@fofbaky/tests-laravel-with-todo-application-e1c90d8ea52b)
+
+<br>
 
 ## Some private projects achievements
 
