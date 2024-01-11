@@ -46,7 +46,9 @@ I participate at different levels in IT projects:
 ## Latest publications
 
 <br>
-- <a href="https://medium.com/@fofbaky/tests-laravel-with-todo-application-e1c90d8ea52b" target="_blank">Laravel testing</a>
+
+- [Laravel testing](https://medium.com/@fofbaky/tests-laravel-with-todo-application-e1c90d8ea52b){:target="\_blank" rel="noopener"}
+
 <br>
 
 ## Some private projects achievements
