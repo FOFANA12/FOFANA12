@@ -71,14 +71,7 @@ No publication for the moment
 ## Public projects
 
 <br/>
-| Project name   | Project owner                | Type               | Description                                                                                                                                                                                                                    |
-| :------------- | :--------------------------- | :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| SYGENO         | SOFTECH (personal project)   | `Private project ` | SYGENO is a note management application adapted to the Malian high school. It was developed with Laravel.                                                                                                                      |
-| GSTOCK         | SOFTECH (personal project)   | `Private project ` | GSTOCK is a simple stock management application suitable for small businesses. It was developed with Laravel.                                                                                                                  |
-| GRO            | D-XPERTS                     | `Private project ` | GRO is a buying and selling management application for small businesses. it was done with Laravel.                                                                                                                             |
-| Swiss-app      | D-XPERTS                     | `Private project ` | Swiss-app is an activity management application for an insurance company. it was done with Laravel.                                                                                                                            |
-| Safety-app     | D-XPERTS, EIFFAGE Nouakchott | `Private project ` | Safety-app is an activity management application for a French company in Nouakchott. Application web with its Android application with the possibility of manual synchronization. it was done with Laravel, Vuejs and Flutter. |
-| Safety-reports | D-XPERTS, EIFFAGE Nouakchott | `Private project ` | Safety-reports is an HSE application consisting of three web and mobile applications with one main application. it was done with Laravel, Vuejs and Flutter.                                                                   |
-| Fpm-app        | FPM                          | `Private project ` | fpm-app is an activity management application for a fishing company in Nouackhott. it was done with Laravel, Vuejs and Flutter.                                                                                                |
-| G-paix         | La paix transport            | `Private project ` | G-paix is an application for the registration of orders to shippers for a Malian company in Nouakchott in the field of goods transport. it was done with Laravel, Vuejs and Flutter. 
+| Project name   |      Project owner      |        Url       |           Description       |   
+|----------------|:-----------------------:|-----------------:|----------------------------:|
+| Tests Laravel  |  Personal project       | https://github.com/FOFANA12/laravel-test.git | The objective of this project is to understand unit testing and feature testing with Laravel.|
 <br/>
