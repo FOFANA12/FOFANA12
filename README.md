@@ -57,23 +57,12 @@ Here are some of my most representative and active projects 👇
 
 | Project | Stack | Description |
 |:--------|:-------|:-------------|
-| [**Kodax-site**](https://github.com/FOFANA12/kodax-site) | 🟢 Vue 3 / TailwindCSS | Official website of **KODAX Digital**, designed with a modern, responsive UI and animated sections. |
-| [**SOS-Environnement**](https://github.com/FOFANA12/sos-env-app) | 🟣 Laravel / MySQL | A citizen platform for environmental incident reporting and awareness campaigns. |
-| [**Simplon-Survey-API**](https://github.com/FOFANA12/simplon-survey-api) | 🟢 Node.js / Express / Prisma / PostgreSQL | A RESTful API for managing professional surveys — users, roles, permissions, surveys, and responses. |
+| [**Kodax-site**](https://github.com/FOFANA12/kodax-site) | 🟢 Vue 3 / TailwindCSS | Website of **KODAX Digital**, designed with a modern, responsive UI. |
+| [**SOS-Environnement**](https://github.com/FOFANA12/sos-env-app) | 🟣 Laravel / MySQL | A citizen platform for environmental incident reporting. |
+| [**Simplon-Survey-API**](https://github.com/FOFANA12/simplon-survey-api) | 🟢 Node.js / Express / Prisma / PostgreSQL | A RESTful API for managing surveys. |
 | [**Simplon-Survey-Front**](https://github.com/FOFANA12/simplon-survey-front) | 🟢 Vue 3 / Vite / Pinia / TailwindCSS | Frontend interface for Simplon Survey — dynamic, modular, multilingual, and connected to the API. |
-| [**DXFLOW**](https://github.com/FOFANA12/dx-flox) | ⚙️ Node.js / Vue 3 | A secure internal file management platform for private organizations to organize and share documents efficiently. |
-| [**Hotel-Omar-Front**](https://github.com/FOFANA12/hotel-omar-front) | 🟢 Vue 3 / TailwindCSS | Elegant web interface for hotel reservation and room management. |
-| [**Hotel-Omar-API**](https://github.com/FOFANA12/hotel-omar-api) | 🟣 Laravel / MySQL | Backend system for hotel operations — clients, bookings, rooms, and billing management. |
-| [**Catering-Front**](https://github.com/FOFANA12/catering-front) | 🟢 Vue 3 / TailwindCSS | User interface for managing catering orders, menus, and client dashboards. |
-| [**Catering-API**](https://github.com/FOFANA12/catering-api) | 🟣 Laravel / MySQL | API for the catering management system — orders, clients, and reporting features. |
-
-<br>
-
-## Public projects
-
-<br/>
-## 📝 Latest publication
-
-- [Laravel Testing](https://medium.com/@fofbaky/tests-laravel-with-todo-application-e1c90d8ea52b)
-
-<br/>
+| [**DXFLOW**](https://github.com/FOFANA12/dx-flow) | ⚙️ Node.js / Vue 3 | An internal file management app for private organizations to store documents. |
+| [**Hotel-Omar-Front**](https://github.com/FOFANA12/hotel-omar-front) | 🟢 Vue 3 / TailwindCSS | Web interface for hotel reservation and room management. |
+| [**Hotel-Omar-API**](https://github.com/FOFANA12/hotel-omar-api) | 🟣 Laravel / MySQL | Backend system for hotel operations. |
+| [**Catering-Front**](https://github.com/FOFANA12/catering-front) | 🟢 Vue 3 / TailwindCSS | User interface for catering management system. |
+| [**Catering-API**](https://github.com/FOFANA12/catering-api) | 🟣 Laravel / MySQL | API for the catering management system. |
