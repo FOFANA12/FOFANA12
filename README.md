@@ -51,42 +51,29 @@ I participate at different levels in IT projects:
 
 <br>
 
-## Some private projects achievements
+## 🧱 Featured Projects
 
-<br>
+Here are some of my most representative and active projects 👇  
 
-| Project name   | Project owner                | Type               | Description                                                                                                                                                                                                                    |
-| :------------- | :--------------------------- | :----------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| SYGENO         | SOFTECH (personal project)   | `Private project ` | SYGENO is a note management application adapted to the Malian high school. It was developed with Laravel.                                                                                                                      |
-| GSTOCK         | SOFTECH (personal project)   | `Private project ` | GSTOCK is a simple stock management application suitable for small businesses. It was developed with Laravel.                                                                                                                  |
-| GRO            | D-XPERTS                     | `Private project ` | GRO is a buying and selling management application for small businesses. it was done with Laravel.                                                                                                                             |
-| Swiss-app      | D-XPERTS                     | `Private project ` | Swiss-app is an activity management application for an insurance company. it was done with Laravel.                                                                                                                            |
-| Safety-app     | D-XPERTS, EIFFAGE Nouakchott | `Private project ` | Safety-app is an activity management application for a French company in Nouakchott. Application web with its Android application with the possibility of manual synchronization. it was done with Laravel, Vuejs and Flutter. |
-| Safety-reports | D-XPERTS, EIFFAGE Nouakchott | `Private project ` | Safety-reports is an HSE application consisting of three web and mobile applications with one main application. it was done with Laravel, Vuejs and Flutter.                                                                   |
-| Fpm-app        | FPM                          | `Private project ` | fpm-app is an activity management application for a fishing company in Nouackhott. it was done with Laravel, Vuejs and Flutter.                                                                                                |
-| G-paix         | La paix transport            | `Private project ` | G-paix is an application for the registration of orders to shippers for a Malian company in Nouakchott in the field of goods transport. it was done with Laravel, Vuejs and Flutter.                                           |
+| Project | Stack | Description |
+|:--------|:-------|:-------------|
+| [**Kodax-site**](https://github.com/FOFANA12/kodax-site) | 🟢 Vue 3 / TailwindCSS | Official website of **KODAX Digital**, designed with a modern, responsive UI and animated sections. |
+| [**SOS-Environnement**](https://github.com/FOFANA12/sos-env-app) | 🟣 Laravel / MySQL | A citizen platform for environmental incident reporting and awareness campaigns. |
+| [**Simplon-Survey-API**](https://github.com/FOFANA12/simplon-survey-api) | 🟢 Node.js / Express / Prisma / PostgreSQL | A RESTful API for managing professional surveys — users, roles, permissions, surveys, and responses. |
+| [**Simplon-Survey-Front**](https://github.com/FOFANA12/simplon-survey-front) | 🟢 Vue 3 / Vite / Pinia / TailwindCSS | Frontend interface for Simplon Survey — dynamic, modular, multilingual, and connected to the API. |
+| [**DXFLOW**](https://github.com/FOFANA12/dx-flox) | ⚙️ Node.js / Vue 3 | A secure internal file management platform for private organizations to organize and share documents efficiently. |
+| [**Hotel-Omar-Front**](https://github.com/FOFANA12/hotel-omar-front) | 🟢 Vue 3 / TailwindCSS | Elegant web interface for hotel reservation and room management. |
+| [**Hotel-Omar-API**](https://github.com/FOFANA12/hotel-omar-api) | 🟣 Laravel / MySQL | Backend system for hotel operations — clients, bookings, rooms, and billing management. |
+| [**Catering-Front**](https://github.com/FOFANA12/catering-front) | 🟢 Vue 3 / TailwindCSS | User interface for managing catering orders, menus, and client dashboards. |
+| [**Catering-API**](https://github.com/FOFANA12/catering-api) | 🟣 Laravel / MySQL | API for the catering management system — orders, clients, and reporting features. |
 
 <br>
 
 ## Public projects
 
 <br/>
-<table>
-<thead>
-  <tr>
-    <th>Project name</th>
-    <th>Project owner</th>
-    <th>Url</th>
-    <th>Description</th>
-  </tr>
-</thead>
-<tbody>
-  <tr>
-    <td>Laravel testing</td>
-    <td>Personal project</td>
-    <td>https://github.com/FOFANA12/laravel-testing.git</td>
-    <td>The objective of this project is to understand unit testing and feature testing with Laravel.</td>
-  </tr>
-</tbody>
-</table>
+## 📝 Latest publication
+
+- [Laravel Testing](https://medium.com/@fofbaky/tests-laravel-with-todo-application-e1c90d8ea52b)
+
 <br/>
