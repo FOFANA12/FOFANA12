@@ -64,3 +64,5 @@ I participate at different levels in IT projects:
 | [**Hotel-Omar-API**](https://github.com/FOFANA12/hotel-omar-api) | Laravel / MySQL | Backend system for hotel operations. |
 | [**Catering-Front**](https://github.com/FOFANA12/catering-front) | Vue 3 / TailwindCSS | User interface for catering management system. |
 | [**Catering-API**](https://github.com/FOFANA12/catering-api) | Laravel / MySQL | API for the catering management system. |
+| [**FleetManager-API**](https://github.com/FOFANA12/fleetmanager-api) | Node.js / Express / Prisma | Backend API for vehicle fleet management. |
+| [**FleetManager-Front**](https://github.com/FOFANA12/fleetmanager-frontend) | Vue 3 / Vite / Pinia | Frontend application for managing vehicle fleets. |
