@@ -55,14 +55,14 @@ I participate at different levels in IT projects:
 
 | Project | Stack | Description |
 |:--------|:-------|:-------------|
-| [**Kodax-site**](https://github.com/FOFANA12/kodax-site) | Vue 3 / TailwindCSS | Website of **KODAX Digital**, designed with a modern, responsive UI. |
+| [**Kodax-site**](https://github.com/FOFANA12/kodax-site) | Vue 3 / Vite / Pinia / TailwindCSS | Website of **KODAX Digital**, designed with a modern, responsive UI. |
 | [**SOS-Environnement**](https://github.com/FOFANA12/sos-env-app) | Laravel / MySQL | A citizen platform for environmental incident reporting. |
 | [**Simplon-Survey-API**](https://github.com/FOFANA12/simplon-survey-api) | Node.js / Express / Prisma / PostgreSQL | A RESTful API for managing surveys. |
 | [**Simplon-Survey-Front**](https://github.com/FOFANA12/simplon-survey-front) | Vue 3 / Vite / Pinia / TailwindCSS | Frontend interface for Simplon Survey — dynamic, modular, multilingual, and connected to the API. |
 | [**DXFLOW**](https://github.com/FOFANA12/dx-flow) | Node.js / Vue 3 | An internal file management app for private organizations to store documents. |
-| [**Hotel-Omar-Front**](https://github.com/FOFANA12/hotel-omar-front) | Vue 3 / TailwindCSS | Web interface for hotel reservation and room management. |
+| [**Hotel-Omar-Front**](https://github.com/FOFANA12/hotel-omar-front) | Vue 3 / Vite / Pinia / TailwindCSS | Web interface for hotel reservation and room management. |
 | [**Hotel-Omar-API**](https://github.com/FOFANA12/hotel-omar-api) | Laravel / MySQL | Backend system for hotel operations. |
-| [**Catering-Front**](https://github.com/FOFANA12/catering-front) | Vue 3 / TailwindCSS | User interface for catering management system. |
+| [**Catering-Front**](https://github.com/FOFANA12/catering-front) | Vue 3 / Vite / Pinia / TailwindCSS | User interface for catering management system. |
 | [**Catering-API**](https://github.com/FOFANA12/catering-api) | Laravel / MySQL | API for the catering management system. |
-| [**FleetManager-API**](https://github.com/FOFANA12/api-parc-auto) | Node.js / Express / Prisma | Backend API for vehicle fleet management. |
-| [**FleetManager-Front**](https://github.com/FOFANA12/front-parc-auto) | Vue 3 / Vite / Pinia | Frontend application for managing vehicle fleets. |
+| [**FleetManager-API**](https://github.com/FOFANA12/api-parc-auto) | Node.js / Express / Prisma / PostgreSQL | Backend API for vehicle fleet management. |
+| [**FleetManager-Front**](https://github.com/FOFANA12/front-parc-auto) | Vue 3 / Vite / Pinia / TailwindCSS | Frontend application for managing vehicle fleets. |
